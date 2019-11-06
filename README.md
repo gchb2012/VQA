@@ -1,5 +1,5 @@
 # 1.Composing Text and Image for Image Retrieval
-**[1]**. Vo N, Jiang L, Sun C, et al. **Composing text and image for image retrieval-an empirical odyssey**[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 6439-6448.[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vo_Composing_Text_and_Image_for_Image_Retrieval_-_an_Empirical_CVPR_2019_paper.pdf) 
+**[1]**. Vo N, Jiang L, Sun C, et al. **Composing text and image for image retrieval-an empirical odyssey**[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019: 6439-6448.[(pdf)](http://openaccess.thecvf.com/content_CVPR_2019/papers/Vo_Composing_Text_and_Image_for_Image_Retrieval_-_an_Empirical_CVPR_2019_paper.pdf) 
   
 **[2]**. Vo N, Jiang L, Hays J. **Let's Transfer Transformations of Shared Semantic Representations**[J]. arXiv preprint arXiv:1903.00793, 2019.  
 **[3]**. Guo X, Wu H, Cheng Y, et al. **Dialog-based interactive image retrieval**[C]//Advances in Neural Information Processing Systems. 2018: 678-688.  
